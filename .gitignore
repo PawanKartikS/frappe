@@ -1,0 +1,11 @@
+# sbt
+lib_managed/
+project/project
+target/
+.bsp
+
+# IntelliJ
+.idea/
+
+.DS_Store
+
